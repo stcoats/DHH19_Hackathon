@@ -1,6 +1,6 @@
 import tweepy
 
-consumer_key="" #import your tokens from your app here 
+consumer_key="" #put your tokens from your Twitter app here (need Twitter developer account) 
 consumer_secret=""
 api_token=""
 api_secret=""
